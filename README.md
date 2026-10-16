@@ -1,5 +1,4 @@
-﻿# photo_tracking
- ## Overview
+# photo_tracking
 ## Features
 ## Technologies Used
 ## Installation
